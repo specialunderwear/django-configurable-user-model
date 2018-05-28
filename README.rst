@@ -1,5 +1,5 @@
-Example app of a very dynamic django app
-----------------------------------------
+Example of a very dynamic django app
+------------------------------------
 
 In this example we demonstrate how a very dynamic django application can
 be constricted by means of metaclasses.
