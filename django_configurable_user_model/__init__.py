@@ -1,0 +1,1 @@
+default_app_config = 'django_configurable_user_model.apps.ConfigurableUserConfig'

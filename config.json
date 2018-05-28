@@ -1,0 +1,11 @@
+{
+    "userfields": {
+        "zult": {
+            "max_length": 255
+        },
+        "second_email": {
+            "verbose_name": "Another email",
+            "type": "emailfield"
+        }
+    }
+}
